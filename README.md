@@ -19,7 +19,7 @@ logger([msg, msg2], true)
 ```
 
 The result of above code will be like the following:
-```javascript
+```log
 2022-01-19T06:07:08Z :
 Your log message here
 ----
