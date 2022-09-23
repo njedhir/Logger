@@ -1,15 +1,16 @@
 {
-  "name": "Logger",
-  "version": "1.0.0",
+  "name": "njedhir-logger",
+  "version": "1.0.1",
   "description": "Logger with time using moment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["log"],
+  "author": "Wahyu Widodo",
+  "license": "MIT",
   "dependencies": {
+    "cli-color": "^2.0.3",
     "moment": "^2.29.1"
   }
 }
